@@ -1,0 +1,4 @@
+Suma: 494408
+Minimalna: 1
+Maxymalna: 998
+Srednia: 494

@@ -1,0 +1,15 @@
+void __fastcall TForm1::Button1Click(TObject *Sender)
+{
+ TForm1* Forma=new TForm1(this);
+ Forma->Left=this->Left+100;
+ Forma->Top=this->Top+100;
+ Forma->Visible=true;
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TForm1::Button2Click(TObject *Sender)
+{
+ TForm1* KopiaWskaznikaFormy=this;
+ KopiaWskaznikaFormy->Color=clBlue;
+ }
+//---------------------------------------------------------------------------

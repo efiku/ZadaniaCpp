@@ -1,0 +1,50 @@
+#pragma once
+#include <math.h>
+#include <string>
+#include <iostream>
+#include <sstream>
+
+namespace efik
+{
+
+template <typename T>
+std::string to_string(T const& value) {
+    stringstream sstr;
+    sstr << value;
+    return sstr.str();
+}
+
+
+
+
+class CDelta
+{
+public:
+	CDelta(double a, double b, double c);
+	~CDelta(void);
+private:
+	double a;
+	double b;
+	double c;
+	double delta;
+public:
+
+	// Ile rozwiazan dla delty?
+	short IleRozwiazan(void);
+
+	// Delta obliczona Ziemia ocalona
+	double Delta(void);
+
+	// X0 - jesli jedno rozwiazanie
+	double X0(void);
+
+	// X1 - dla 1 rozwiazania z 2
+	double X1(void);
+
+	// X2 - dla 2 rozwiazania z 2
+	double X2(void);
+	std::string PodajWynik(void);
+};
+
+}
+

@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" GraphDirection="RightToLeft" Layout="ForceDirected" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 Namespace=:: Member=main)" Category="CodeSchema_Method" Bounds="1000.15435498812,80,62.142752939008,25.92018688" DelayedCrossGroupLinksState="Fetched" Label="main" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="5f3f1d87-3bb0-4f05-8b5e-6d2d4ed323c41" Category="Comment" Bounds="513.75,106,210.17,57.8800000000001" Label="Sprawdzanie czy podana liczba jest mniejsza od zera, jest zerem lub jest większa od zera." />
+    <Node Id="721f28d9-fdf0-4248-9b2d-f8a73928184a1" Category="Comment" Bounds="548.89,374.84,214.11,41.9200000000001" Label="Sprawdzanie czy podana liczba x jest podzielna przez liczbę y." />
+    <Node Id="971ae347-8dd3-46a9-8899-81f1b1dee9901" Category="Comment" Bounds="46,254.96,233.043333333334,57.8800000000001" Label="Obliczanie największego wspólnego dzielnika dwóch liczb - NWD za pomocą algorytmu Euklidesa." />
+    <Node Id="@10" Category="CodeSchema_Method" Bounds="40,348.84,217.316666666667,73.9200000000001" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Label="liczba_p" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@11" Category="CodeSchema_Method" Bounds="40,556.68,261.103333333333,73.9199999999998" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Label="mod" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@12" Category="CodeSchema_Method" Bounds="507.75,80,222.17,89.8800000000001" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Label="mwr" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@13" Category="CodeSchema_Method" Bounds="697.824354988125,556.68,232.33,57.96" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Label="odw" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@14" Category="CodeSchema_Method" Bounds="40,141,185.9,57.96" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Label="silnia" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@15" Category="CodeSchema_Method" Bounds="465.224354988125,556.68,202.6,57.96" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Label="sum_1n" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@17" Category="CodeSchema_Method" Bounds="315.043333333334,228.96,256.89,89.8800000000001" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Label="dpp" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@18" Category="CodeSchema_Method" Bounds="287.316666666667,348.84,225.573333333333,73.9200000000001" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Label="skr_ul" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@19" Category="CodeSchema_Method" Bounds="307.616666666667,452.76,244.923333333333,73.9200000000001" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Label="sum_1n2n" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@2" Category="CodeSchema_Assembly" Bounds="0,0,1102.29710792713,742.487313965" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="2" Group="Expanded" Label="3ti.exe" />
+    <Node Id="@20" Category="CodeSchema_Method" Bounds="542.89,348.84,226.11,73.9200000000001" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Label="XprzezY" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@21" Category="CodeSchema_Method" Bounds="331.103333333333,556.68,104.121021654792,57.960000045" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Label="XY" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@22" Category="CodeSchema_Method" Bounds="40,228.96,245.043333333334,89.8800000000001" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Label="NWD" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@23" Category="CodeSchema_Method" Bounds="601.933333333334,228.96,214.263333333333,73.9200000000001" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Label="kwadrat" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@24" Category="CodeSchema_Method" Bounds="40,452.76,237.616666666667,73.9200000000001" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Label="wyznaczniki" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@3" Category="CodeSchema_Namespace" Bounds="980.154354988125,40,102.142752939008,85.92018688" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="1" Group="Expanded" Label="‎::" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@5" Category="CodeSchema_Namespace" Bounds="20,40,930.154354988125,682.487313965" DelayedChildNodesState="Fetched" DelayedCrossGroupLinksState="Fetched" FetchedChildrenCount="16" Group="Expanded" Label="alg_3ti" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}">
+      <Category Ref="Category1" />
+    </Node>
+    <Node Id="@6" Category="CodeSchema_Method" Bounds="582.54,452.76,250.716666666667,73.9200000000001" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Label="czy_pierwsza" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="@9" Category="CodeSchema_Method" Bounds="255.9,141,221.85,57.96" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Label="DwaDoN" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" />
+    <Node Id="ObliczanieMiejscZerowychFunkcjiKwadratowej." Category="Comment" Bounds="607.933333333334,254.96,202.263333333333,41.9200000000001" Label="Obliczanie miejsc zerowych funkcji kwadratowej." />
+    <Node Id="ObliczanieN-tejPotęgiLiczby2(2n)." Category="Comment" Bounds="261.9,167,209.85,25.96" Label="Obliczanie n-tej potęgi liczby 2 (2n)." />
+    <Node Id="ObliczanieOdwrotnościZDanejLiczby." Category="Comment" Bounds="703.824354988125,582.68,220.33,25.96" Label="Obliczanie odwrotności z danej liczby." />
+    <Node Id="ObliczanieSilni(n!)ZLiczbyN." Category="Comment" Bounds="46,167,173.9,25.96" Label="Obliczanie silni (n!) z liczby n." />
+    <Node Id="ObliczanieSumyLiczbOd1DoN." Category="Comment" Bounds="471.224354988125,582.68,190.6,25.96" Label="Obliczanie sumy liczb od 1 do n." />
+    <Node Id="ObliczanieWartościBezwzględnej(modułu)ZDanejLiczby." Category="Comment" Bounds="46,582.68,249.103333333333,41.9199999999998" Label="Obliczanie wartości bezwzględnej (modułu) z danej liczby." />
+    <Node Id="ObliczanieXy." Category="Comment" Bounds="337.103333333333,582.68,92.1210216547915,25.960000045" Label="Obliczanie xy." />
+    <Node Id="PrzestrzeńNazw" Category="Comment" Bounds="40,660.6,106.820854614792,41.887313965" Label="Przestrzeń Nazw&#xD;&#xA;Plik: &quot;alg_3ti.h&quot;" />
+    <Node Id="RozwiązywanieUkładuRównańMetodąWyznaczników." Category="Comment" Bounds="46,478.76,225.616666666667,41.9200000000001" Label="Rozwiązywanie układu równań metodą wyznaczników." />
+    <Node Id="SkracanieUłamkówZwykłychZZastosowaniemAlgorytmuEuklidesa." Category="Comment" Bounds="293.316666666667,374.84,213.573333333333,41.9200000000001" Label="Skracanie ułamków zwykłych z zastosowaniem algorytmu Euklidesa." />
+    <Node Id="SprawdzanieCzyPodanaLiczbaJestParzysta/Nieparzysta." Category="Comment" Bounds="588.54,478.76,238.716666666667,41.9200000000001" Label="Sprawdzenie czy podana liczba jest liczbą pierwszą." />
+    <Node Id="SprawdzanieCzyPodanaLiczbaJestParzysta/Nieparzysta.1" Category="Comment" Bounds="46,374.84,205.316666666667,41.9200000000001" Label="Sprawdzanie czy podana liczba jest parzysta / nieparzysta." />
+    <Node Id="c5b58e43-15ae-4748-a4c9-6abe9f939c501" Category="Comment" Bounds="321.043333333334,254.96,244.89,57.8800000000001" Label="Obliczanie długości przeciwprostokątnej w trójkącie prostokątnym za pomocą twierdzenia Pitagorasa." />
+    <Node Id="feaf5e77-5626-4c37-b28e-d8e091a612771" Category="Comment" Bounds="313.616666666667,478.76,232.923333333333,41.9200000000001" Label="Obliczanie sumy liczb od n1 do n2 (n1 &lt; n2)." />
+  </Nodes>
+  <Links>
+    <Link Source="5f3f1d87-3bb0-4f05-8b5e-6d2d4ed323c41" Target="@12" Bounds="300.996368408203,1670.125,65.9603271484375,0" />
+    <Link Source="721f28d9-fdf0-4248-9b2d-f8a73928184a1" Target="@20" Bounds="310.418702324479,971.125000649277,54.56798468724,1.58863433625811E-05" />
+    <Link Source="971ae347-8dd3-46a9-8899-81f1b1dee9901" Target="@22" Bounds="303.488861083984,169.918182373047,52.0311584472656,11.1564025878906" />
+    <Link Source="@10" Target="SprawdzanieCzyPodanaLiczbaJestParzysta/Nieparzysta.1" Category="Contains" Bounds="679.887390136719,286.380004882813,4.42425537109375,4.5" />
+    <Link Source="@11" Target="ObliczanieWartościBezwzględnej(modułu)ZDanejLiczby." Category="Contains" Bounds="451.344024658203,614.099975585938,4.42431640625,4.5" />
+    <Link Source="@12" Target="5f3f1d87-3bb0-4f05-8b5e-6d2d4ed323c41" Category="Contains" Bounds="618.910705566406,169.880004882813,4.42431640625,4.5" />
+    <Link Source="@13" Target="ObliczanieOdwrotnościZDanejLiczby." Category="Contains" Bounds="156.240692138672,702.059997558594,4.42430114746094,4.5" />
+    <Link Source="@14" Target="@14" Category="CodeSchema_Calls" Bounds="86.4749984741211,81,92.9500045776367,60" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
+    <Link Source="@14" Target="ObliczanieSilni(n!)ZLiczbyN." Category="Contains" Bounds="133.025695800781,137.960006713867,4.42430114746094,4.5" />
+    <Link Source="@15" Target="ObliczanieSumyLiczbOd1DoN." Category="Contains" Bounds="847.316711425781,598.140014648438,4.42431640625,4.5" />
+    <Link Source="@17" Target="c5b58e43-15ae-4748-a4c9-6abe9f939c501" Category="Contains" Bounds="168.520690917969,302.339996337891,4.42431640625,4.5" />
+    <Link Source="@18" Target="SkracanieUłamkówZwykłychZZastosowaniemAlgorytmuEuklidesa." Category="Contains" Bounds="152.862365722656,406.260009765625,4.42430114746094,4.5" />
+    <Link Source="@19" Target="feaf5e77-5626-4c37-b28e-d8e091a612771" Category="Contains" Bounds="686.264038085938,510.179992675781,4.42431640625,4.5" />
+    <Link Source="@2" Target="@3" Category="Contains" Bounds="1166.10607910156,82.960090637207,15.5,4.5" FetchingParent="@2" />
+    <Link Source="@2" Target="@5" Category="Contains" Bounds="522.481689453125,731.059997558594,4.5,15.5" FetchingParent="@2" />
+    <Link Source="@20" Target="721f28d9-fdf0-4248-9b2d-f8a73928184a1" Category="Contains" Bounds="153.13069152832,510.179992675781,4.42430114746094,4.5" />
+    <Link Source="@21" Target="ObliczanieXy." Category="Contains" Bounds="663.956176757813,598.140014648438,4.42431640625,4.5" />
+    <Link Source="@22" Target="971ae347-8dd3-46a9-8899-81f1b1dee9901" Category="Contains" Bounds="882.517333984375,169.880004882813,4.42431640625,4.5" />
+    <Link Source="@23" Target="ObliczanieMiejscZerowychFunkcjiKwadratowej." Category="Contains" Bounds="434.097351074219,286.380004882813,4.42431640625,4.5" />
+    <Link Source="@24" Target="RozwiązywanieUkładuRównańMetodąWyznaczników." Category="Contains" Bounds="414.994018554688,510.179992675781,4.42431640625,4.5" />
+    <Link Source="@3" Target="(@1 Namespace=:: Member=main)" Category="Contains" Bounds="1106.03466796875,114.920188903809,4.5,15.4999923706055" FetchingParent="@3" />
+    <Link Source="@5" Target="@10" Category="Contains" Bounds="711.584106445313,35.5,26.8965454101563,169.648101806641" FetchingParent="@5" />
+    <Link Source="@5" Target="@11" Category="Contains" Bounds="451.268341064453,623.099975585938,4.5,103.460021972656" FetchingParent="@5" />
+    <Link Source="@5" Target="@12" Category="Contains" Bounds="618.835021972656,35.5,4.5,35.5" FetchingParent="@5" />
+    <Link Source="@5" Target="@13" Category="Contains" Bounds="156.164993286133,711.059997558594,4.5,15.5" FetchingParent="@5" />
+    <Link Source="@5" Target="@14" Category="Contains" Bounds="132.949996948242,35.5,4.5,35.5" FetchingParent="@5" />
+    <Link Source="@5" Target="@15" Category="Contains" Bounds="847.241027832031,607.140014648438,4.5,119.419982910156" FetchingParent="@5" />
+    <Link Source="@5" Target="@17" Category="Contains" Bounds="15.5,257.399993896484,15.5,4.5" FetchingParent="@5" />
+    <Link Source="@5" Target="@18" Category="Contains" Bounds="15.5,369.299987792969,15.5,4.5" FetchingParent="@5" />
+    <Link Source="@5" Target="@19" Category="Contains" Bounds="710.318725585938,518.107177734375,14.1829833984375,208.452819824219" FetchingParent="@5" />
+    <Link Source="@5" Target="@20" Category="Contains" Bounds="15.5,473.220001220703,15.5,4.5" FetchingParent="@5" />
+    <Link Source="@5" Target="@21" Category="Contains" Bounds="663.880493164063,607.140014648438,4.5,119.419982910156" FetchingParent="@5" />
+    <Link Source="@5" Target="@22" Category="Contains" Bounds="882.441650390625,35.5,4.5,35.5" FetchingParent="@5" />
+    <Link Source="@5" Target="@23" Category="Contains" Bounds="454.126403808594,35.5,32.1842651367188,168.737289428711" FetchingParent="@5" />
+    <Link Source="@5" Target="@24" Category="Contains" Bounds="298.269348144531,515.032104492188,51.3294677734375,211.527893066406" FetchingParent="@5" />
+    <Link Source="@5" Target="@6" Category="Contains" Bounds="15.5,577.140014648438,15.5,4.5" FetchingParent="@5" />
+    <Link Source="@5" Target="@9" Category="Contains" Bounds="366.825012207031,35.5,4.5,35.5" FetchingParent="@5" />
+    <Link Source="@5" Target="PrzestrzeńNazw" Category="Contains" Bounds="355.740417480469,694.9873046875,4.5,31.5726928710938" />
+    <Link Source="@6" Target="SprawdzanieCzyPodanaLiczbaJestParzysta/Nieparzysta." Category="Contains" Bounds="165.434020996094,614.099975585938,4.42431640625,4.5" />
+    <Link Source="@9" Target="@9" Category="CodeSchema_Calls" Bounds="311.362487792969,81,110.925018310547,60" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" Weight="1" />
+    <Link Source="@9" Target="ObliczanieN-tejPotęgiLiczby2(2n)." Category="Contains" Bounds="366.900695800781,137.960006713867,4.42431640625,4.5" />
+    <Link Source="ObliczanieMiejscZerowychFunkcjiKwadratowej." Target="@23" Bounds="310.463623046875,1208.125,60.4463806152344,0" />
+    <Link Source="ObliczanieN-tejPotęgiLiczby2(2n)." Target="@9" Bounds="293.283325195313,399.105010986328,132.031890869141,16.2699890136719" />
+    <Link Source="ObliczanieOdwrotnościZDanejLiczby." Target="@13" Bounds="300.790130615234,1442.0927734375,61.0865783691406,0.0101318359375" />
+    <Link Source="ObliczanieSilni(n!)ZLiczbyN." Target="@14" Bounds="302.756101847207,620.125005875574,82.3355851645119,1.1985154173999E-05" />
+    <Link Source="ObliczanieSumyLiczbOd1DoN." Target="@15" Bounds="309.950103759766,740.44921875,66.7915954589844,0.1024169921875" />
+    <Link Source="ObliczanieWartościBezwzględnej(modułu)ZDanejLiczby." Target="@11" Bounds="301.6201171875,1559.17102050781,45.8699340820313,0.0234375" />
+    <Link Source="ObliczanieXy." Target="@21" Bounds="293.079010009766,281.69970703125,133.695159912109,16.67529296875" />
+    <Link Source="PrzestrzeńNazw" Target="@5" Bounds="93.4104309082031,702.4873046875,12.322265625,33.5" />
+    <Link Source="RozwiązywanieUkładuRównańMetodąWyznaczników." Target="@24" Bounds="320.534606933594,1319.11340332031,38.6987609863281,0.00146484375" />
+    <Link Source="SkracanieUłamkówZwykłychZZastosowaniemAlgorytmuEuklidesa." Target="@18" Bounds="294.367492675781,56.0850296020508,140.601654052734,62.6946258544922" />
+    <Link Source="SprawdzanieCzyPodanaLiczbaJestParzysta/Nieparzysta." Target="@6" Bounds="293.283325195313,871.521179199219,103.145782470703,11.8538208007813" />
+    <Link Source="SprawdzanieCzyPodanaLiczbaJestParzysta/Nieparzysta.1" Target="@10" Bounds="310.373779296875,1085.125,59.0096130371094,0" />
+    <Link Source="c5b58e43-15ae-4748-a4c9-6abe9f939c501" Target="@17" Bounds="299.770751953125,1754.71850585938,49.8259582519531,11.4356689453125" />
+    <Link Source="feaf5e77-5626-4c37-b28e-d8e091a612771" Target="@19" Bounds="293.283325195313,520.521179199219,103.145782470703,11.8538208007813" />
+  </Links>
+  <Categories>
+    <Category Id="Category1" Label="Category 1" Background="#FFE51400" IsTag="True" />
+    <Category Id="CodeSchema_Assembly" Label="Zestaw" BasedOn="File" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Assembly" NavigationActionLabel="Assemblies" />
+    <Category Id="CodeSchema_Calls" Label="Wywołania" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Called By" OutgoingActionLabel="Calls" />
+    <Category Id="CodeSchema_Member" Label="Członek" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Field" NavigationActionLabel="Members" />
+    <Category Id="CodeSchema_Method" Label="Metoda" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Link:Forward:CodeSchema_Calls" Icon="CodeSchema_Method" NavigationActionLabel="Methods" />
+    <Category Id="CodeSchema_Namespace" Label="Przestrzeń nazw" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Type" Icon="CodeSchema_Namespace" NavigationActionLabel="Namespaces" />
+    <Category Id="Comment" Label="Comment" Description="Represents a user defined comment on the diagram" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Comments" />
+    <Category Id="Contains" Label="Zawiera" Description="Określa, czy źródło łącza zawiera obiekt docelowy" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contained By" IsContainment="True" OutgoingActionLabel="Contains" />
+    <Category Id="File" Label="Plik" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="File" NavigationActionLabel="Files" />
+  </Categories>
+  <Properties>
+    <Property Id="Background" Label="Background" Description="The background color" DataType="System.Windows.Media.Brush" />
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="DataVirtualized" Label="Data Virtualized" Description="If true, the graph can contain nodes and links that represent data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="DelayedChildNodesState" Label="Stan opóźnionych węzłów podrzędnych" Description="Unspecified jeśli stan opóźnionych węzłów podrzędnych nie jest określony. NotFetched, jeśli grupa zawiera węzły podrzędne, które nie są jeszcze dołączone do grafu. Fetched jeśli grupa posiada wszystkie opóźnione węzły podrzędne już dołączone" DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="DelayedCrossGroupLinksState" Label="Stan opóźnieonych łączy współzależności grup" Description="Unspecified, jeśli stan opóźnionych łączy współzależności grup nie jest określony NotFetched, jeżeli opóźnione łącza współzależności grup w tym węźle nie są jeszcze dołączone do grafu. Fetched, jeśli wszystkie opóźnione łącza współzależności grup są już dołączone" DataType="Microsoft.VisualStudio.GraphModel.DelayedDataState" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FetchedChildrenCount" DataType="System.Int32" />
+    <Property Id="FetchingParent" DataType="Microsoft.VisualStudio.GraphModel.GraphNodeId" />
+    <Property Id="GraphDirection" DataType="Microsoft.VisualStudio.Diagrams.Layout.LayoutOrientation" />
+    <Property Id="Group" Label="Grupuj" Description="Wyświetlaj węzeł jako grupę" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" Label="Icon" Description="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="IsTag" DataType="System.Boolean" />
+    <Property Id="Label" Label="Etykieta" Description="Etykieta, którą można wyświetlić, obiektu Annotable." DataType="System.String" />
+    <Property Id="Language" Label="Language" Description="Language" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+    <Property Id="Weight" Label="Waga" Description="Waga" DataType="System.Double" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Zestaw" ValueType="Uri" />
+    <Name Id="Member" Label="Członek" ValueType="System.Object" />
+    <Name Id="Name" Label="Name" ValueType="System.String" />
+    <Name Id="Namespace" Label="Przestrzeń nazw" ValueType="System.String" />
+    <Name Id="OverloadingParameters" Label="Parametr" ValueType="Microsoft.VisualStudio.GraphModel.GraphNodeIdCollection" Formatter="NameValueNoEscape" />
+    <Name Id="Type" Label="Typ" ValueType="System.Object" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(c5c51e90-a297-4ff9-9a73-0d1e39dbe2da.OutputPathUri)" />
+    <Alias n="2" Id="(@1)" />
+    <Alias n="3" Id="(@1 Namespace=::)" />
+    <Alias n="4" Id="Namespace=alg_3ti" />
+    <Alias n="5" Id="(@1 @4)" />
+    <Alias n="6" Id="(@1 @4 Member=(Name=czy_pierwsza OverloadingParameters=[(Type=int)]))" />
+    <Alias n="7" Id="(Type=long)" />
+    <Alias n="8" Id="OverloadingParameters=[@7]" />
+    <Alias n="9" Id="(@1 @4 Member=(Name=DwaDoN @8))" />
+    <Alias n="10" Id="(@1 @4 Member=(Name=liczba_p @8))" />
+    <Alias n="11" Id="(@1 @4 Member=(Name=mod @8))" />
+    <Alias n="12" Id="(@1 @4 Member=(Name=mwr @8))" />
+    <Alias n="13" Id="(@1 @4 Member=(Name=odw @8))" />
+    <Alias n="14" Id="(@1 @4 Member=(Name=silnia @8))" />
+    <Alias n="15" Id="(@1 @4 Member=(Name=sum_1n @8))" />
+    <Alias n="16" Id="OverloadingParameters=[@7,@7]" />
+    <Alias n="17" Id="(@1 @4 Member=(Name=dpp @16))" />
+    <Alias n="18" Id="(@1 @4 Member=(Name=skr_ul @16))" />
+    <Alias n="19" Id="(@1 @4 Member=(Name=sum_1n2n @16))" />
+    <Alias n="20" Id="(@1 @4 Member=(Name=XprzezY @16))" />
+    <Alias n="21" Id="(@1 @4 Member=(Name=XY @16))" />
+    <Alias n="22" Id="(@1 @4 Member=(Name=NWD OverloadingParameters=[(Type=&quot;long &amp;&quot;),@7]))" />
+    <Alias n="23" Id="(@1 @4 Member=kwadrat)" />
+    <Alias n="24" Id="(@1 @4 Member=wyznaczniki)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Category 1" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Category1')" />
+      <Setter Property="Background" Value="#FFE51400" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Results" ValueLabel="True">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Assembly" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Namespace" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Interface" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Struct" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enumeration" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Delegate" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Class" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Property" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Method" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Event" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Field" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out Parameter" ValueLabel="True">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Parameter" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Local Variable" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externals" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Read" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Target.HasCategory('CodeSchema_Field') And HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Comment" ValueLabel="Has comment">
+      <Condition Expression="HasCategory('Comment')" />
+      <Setter Property="Background" Value="#FFFFFACD" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+      <Setter Property="StrokeThickness" Value="1" />
+      <Setter Property="NodeRadius" Value="2" />
+      <Setter Property="MaxWidth" Value="250" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="c5c51e90-a297-4ff9-9a73-0d1e39dbe2da.OutputPathUri" Value="file:///C:/Users/Krzysztof Pazdur/documents/visual studio 2012/Projects/3ti/Debug/3ti.exe" />
+  </Paths>
+</DirectedGraph>

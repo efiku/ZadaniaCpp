@@ -1,0 +1,128 @@
+object Form1: TForm1
+  Left = 678
+  Top = 121
+  BorderIcons = [biMinimize, biMaximize]
+  BorderStyle = bsDialog
+  Caption = 'Program boliczaj'#261'cy delte'
+  ClientHeight = 145
+  ClientWidth = 332
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  FormStyle = fsStayOnTop
+  OldCreateOrder = False
+  Position = poScreenCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 24
+    Top = 32
+    Width = 6
+    Height = 13
+    Caption = 'a'
+  end
+  object Label2: TLabel
+    Left = 80
+    Top = 32
+    Width = 9
+    Height = 13
+    Caption = 'b '
+  end
+  object Label3: TLabel
+    Left = 136
+    Top = 32
+    Width = 9
+    Height = 13
+    Caption = 'c '
+  end
+  object Label4: TLabel
+    Left = 184
+    Top = 48
+    Width = 10
+    Height = 13
+    Caption = '/\'
+  end
+  object Label5: TLabel
+    Left = 208
+    Top = 48
+    Width = 6
+    Height = 13
+    Caption = '='
+  end
+  object Label6: TLabel
+    Left = 120
+    Top = 8
+    Width = 100
+    Height = 20
+    Caption = 'OBLICZ DELTE'
+    Font.Charset = EASTEUROPE_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Segoe UI'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label7: TLabel
+    Left = 8
+    Top = 80
+    Width = 32
+    Height = 13
+    Caption = 'Label7'
+  end
+  object Edit1: TEdit
+    Left = 8
+    Top = 48
+    Width = 49
+    Height = 21
+    TabOrder = 0
+  end
+  object Edit2: TEdit
+    Left = 64
+    Top = 48
+    Width = 49
+    Height = 21
+    TabOrder = 1
+    Text = 'Edit1'
+  end
+  object Edit3: TEdit
+    Left = 120
+    Top = 48
+    Width = 49
+    Height = 21
+    TabOrder = 2
+    Text = 'Edit1'
+  end
+  object Edit4: TEdit
+    Left = 224
+    Top = 48
+    Width = 89
+    Height = 21
+    Enabled = False
+    TabOrder = 3
+    Text = 'Edit1'
+    OnChange = Edit4Change
+  end
+  object Button1: TButton
+    Left = 232
+    Top = 104
+    Width = 75
+    Height = 25
+    Caption = 'Licz Delte'
+    ParentShowHint = False
+    ShowHint = False
+    TabOrder = 4
+    OnClick = Button1Click
+  end
+  object Button2: TButton
+    Left = 8
+    Top = 104
+    Width = 195
+    Height = 25
+    Caption = 'Zamknij Aplikacj'#281
+    TabOrder = 5
+    OnClick = Button2Click
+  end
+end

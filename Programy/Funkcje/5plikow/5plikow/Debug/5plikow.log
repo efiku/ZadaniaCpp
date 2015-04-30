@@ -1,0 +1,37 @@
+﻿Kompilacja rozpoczęła się 2013-09-29 20:58:35.
+     1>Projekt „C:\Users\Krzysztof Pazdur\documents\visual studio 2012\Projects\5plikow\5plikow\5plikow.vcxproj” w węźle 2 (elementy docelowe: Rebuild).
+     1>ClCompile:
+         E:\Programy\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D CODE_ANALYSIS /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze /analyze:log "Debug\drugi_wymiar.cpp.nativecodeanalysis.xml" /analyze:pluginlocalespc.dll /errorReport:prompt   /analyze:quiet drugi_wymiar.cpp
+         drugi_wymiar.cpp
+         E:\Programy\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D CODE_ANALYSIS /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze /analyze:log "Debug\fibonacz.cpp.nativecodeanalysis.xml" /analyze:pluginlocalespc.dll /errorReport:prompt   /analyze:quiet fibonacz.cpp
+         fibonacz.cpp
+         E:\Programy\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D CODE_ANALYSIS /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze /analyze:log "Debug\Lotto.cpp.nativecodeanalysis.xml" /analyze:pluginlocalespc.dll /errorReport:prompt   /analyze:quiet Lotto.cpp
+         Lotto.cpp
+         E:\Programy\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D CODE_ANALYSIS /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze /analyze:log "Debug\main.cpp.nativecodeanalysis.xml" /analyze:pluginlocalespc.dll /errorReport:prompt   /analyze:quiet main.cpp
+         main.cpp
+     1>c:\users\krzysztof pazdur\documents\visual studio 2012\projects\5plikow\5plikow\main.cpp(24): warning C4244: "argument" : konwersja z "time_t" do "unsigned int", możliwa utrata danych
+     1>c:\users\krzysztof pazdur\documents\visual studio 2012\projects\5plikow\5plikow\main.cpp(123): warning C4244: "argument" : konwersja z "double" do "long", możliwa utrata danych
+         E:\Programy\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D CODE_ANALYSIS /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze /analyze:log "Debug\silnia.cpp.nativecodeanalysis.xml" /analyze:pluginlocalespc.dll /errorReport:prompt   /analyze:quiet silnia.cpp
+         silnia.cpp
+         E:\Programy\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D CODE_ANALYSIS /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze /analyze:log "Debug\xy.cpp.nativecodeanalysis.xml" /analyze:pluginlocalespc.dll /errorReport:prompt   /analyze:quiet xy.cpp
+         xy.cpp
+       Link:
+         E:\Programy\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Krzysztof Pazdur\documents\visual studio 2012\Projects\5plikow\Debug\5plikow.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"E:\Programy\Visual Studio\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Krzysztof Pazdur\documents\visual studio 2012\Projects\5plikow\Debug\5plikow.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Krzysztof Pazdur\documents\visual studio 2012\Projects\5plikow\Debug\5plikow.lib" /MACHINE:X86 Debug\drugi_wymiar.obj
+         Debug\fibonacz.obj
+         Debug\Lotto.obj
+         Debug\main.obj
+         Debug\silnia.obj
+         Debug\xy.obj
+         5plikow.vcxproj -> C:\Users\Krzysztof Pazdur\documents\visual studio 2012\Projects\5plikow\Debug\5plikow.exe
+     1>main.cpp(65): warning : C6031: Return value ignored: '_getch'.
+     1>main.cpp(83): warning : C6031: Return value ignored: '_getch'.
+     1>main.cpp(101): warning : C6031: Return value ignored: '_getch'.
+     1>main.cpp(125): warning : C6031: Return value ignored: '_getch'.
+     1>main.cpp(135): warning : C6031: Return value ignored: '_getch'.
+     1>main.cpp(147): warning : C6031: Return value ignored: '_getch'.
+     1>main.cpp(163): warning : C6031: Return value ignored: '_getch'.
+     1>Kompilowanie projektu „C:\Users\Krzysztof Pazdur\documents\visual studio 2012\Projects\5plikow\5plikow\5plikow.vcxproj” wykonane (elementy docelowe: Rebuild).
+
+Kompilacja powiodła się.
+
+Czas, który upłynął: 00:00:19.25

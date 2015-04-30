@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45592308-11a7-4a8a-9db6-7bb95d211d70" name="Default" comment="Added files">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/Debug/3ti.bsc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/Debug/3ti.ilk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/Debug/3ti.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti.sdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti.v11.suo.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/Debug/5plikow.exe.lastcodeanalysissucceeded" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/Debug/5plikow.ilk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/Debug/5plikow.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/Release/5plikow.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow.sdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow.v11.suo.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/music/Courage.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/Release/music/Courage.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ois/Dwie_klasy.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ois/Dwie_klasy.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ois/Dwie_klasy_private.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/FIRMA/FIRMA.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/FIRMA/FIRMA.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/FIRMA/FIRMA_private.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/wieloplikowy/Funckje2.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ios3/IOS3.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/konstruktor/IOS3.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad_n/Kalkulatorek.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad_n/Kalkulatorek.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad_n/Kalkulatorek.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad_n/Kalkulatorek.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad_n/Kalkulatorek.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad_n/Kalkulatorek.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/Lekcja 1.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/Lekcja 1.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow.sdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ois/OIS.EXE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad/Program.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad/Program.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad/Program.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad/Program.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/Program.sbr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad/Program.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad/Program.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/Project1.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/Project1.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Project1.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/ifstreamof/pliki/Project1.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/Project1.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/Project1.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/Release/Ptaszek.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/Release/Ptaszek_100_FPS.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/Release/Ptaszek_500_FPS.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/SFML.v12.suo.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/SquaresBoldFree.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/Release/SquaresBoldFree.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/app.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/dziedziczenie/czlowiek.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Na cwaniakow/drivereg.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Na cwaniakow/drivereg.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Na cwaniakow/drivereg.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Na cwaniakow/drivereg_private.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/Debug/drugi_wymiar.ilk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/Debug/drugi_wymiar.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar.sdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar.v11.suo.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/AI/duck.ai" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/TeX/duck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/Release/TeX/duck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/968/gmon.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/ifstreamof/trojkat/gmon.out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/music/jump.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/Release/music/jump.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad_n/kalkulator.~cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad_n/kalkulator.~cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/Debug/korale.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/Debug/korale.ilk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/Debug/korale.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/korale.sdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/korale.v12.suo.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 4/kwdp.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 4/kwdp.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 4/kwdp.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/libsndfile-1.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/Release/libsndfile-1.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/libsndfile-1.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/AI/logo.ai" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/TeX/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/Release/TeX/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/openal32.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/Release/openal32.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/openal32.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad/programik.~cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad/programik.~cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/music/reflection.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/Release/music/reflection.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Release/res.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 3/rkw.~cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 3/rkwx.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 3/rkwx.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 3/rkwx.tds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/TeX/spike.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/Release/TeX/spike.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/tablice/tablice.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/vc110.idb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/vc110.idb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/vc110.idb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/vc110.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/vc110.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Release/vc110.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/vc110.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/korale/Debug/vc120.idb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Release/vc120.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/korale/Debug/vc120.pdb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/AI/x.ai" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ios3/10_13_1_str453.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/konstruktor/10_13_1_str453.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/968/21_0_str968.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/3ti.Build.CppClean.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti.dgml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/3ti.lastbuildstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/3ti.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/3ti.vcxproj.filters" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/3ti.vcxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/wyk5funkcji/5funkcji.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/5plikow.Build.CppClean.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/5plikow.lastbuildstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Release/5plikow.lastbuildstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/5plikow.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Release/5plikow.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/5plikow.vcxproj.filters" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/5plikow.vcxproj.user" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/5plikow.vcxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Audio.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/tablice/Tab1,2,3/BezNazwy2.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/BlendMode.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/BscMake.command.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/BscMake.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Release/NieDotykajKolcow.tlog/CL.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/CL.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/CL.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Release/CL.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/CL.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/korale/Debug/korale.tlog/CL.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Release/NieDotykajKolcow.tlog/CL.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/CL.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/CL.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Release/CL.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/CL.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/korale/Debug/korale.tlog/CL.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/CircleShape.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/Clock.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Collision.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Collision.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/Color.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Config.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Window/Context.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Window/ContextSettings.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/ConvexShape.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 4/Delta.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 4/Delta.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 4/Delta.~cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 4/Delta.~h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/Drawable.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Duck.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Duck.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ois/Dwie_klasy.dev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ois/Dwie_klasy_private.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ois/Dwie_klasy_private.rc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/Err.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Window/Event.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Audio/Export.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/Export.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Network/Export.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/Export.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Window/Export.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/FIRMA/FIRMA.dev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/FIRMA/FIRMA_private.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/FIRMA/FIRMA_private.rc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/Font.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Network/Ftp.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/wieloplikowy/Funckje2.dev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/wieloplikowy/Funckje2.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/Funkcje3/Funkcje3.dev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/Funkcje3/Funkcje3.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Window/GlResource.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/Glyph.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Network/Http.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ios3/IOS3.dev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/konstruktor/IOS3.dev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ios3/IOS3.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/konstruktor/IOS3.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/Image.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/InputStream.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Network/IpAddress.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Window/Joystick.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad_n/Kalkulatorek.bpr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad_n/Kalkulatorek.bpr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad_n/Kalkulatorek.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad_n/Kalkulatorek.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad_n/Kalkulatorek.~bpr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad_n/Kalkulatorek.~bpr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad_n/Kalkulatorek.~cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad_n/Kalkulatorek.~cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Window/Keyboard.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Audio/Listener.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/Lock.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/Lotto.cpp.nativecodeanalysis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Lotto.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Na cwaniakow/Makefile.win" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Makefile.win" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/Funkcje3/Makefile.win" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/wieloplikowy/Makefile.win" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/ifstreamof/kolejnezadanie/Makefile.win" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/ifstreamof/pliki/Makefile.win" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/FIRMA/Makefile.win" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/dziedziczenie/Makefile.win" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ios3/Makefile.win" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/konstruktor/Makefile.win" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ois/Makefile.win" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/static/Makefile.win" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Window/Mouse.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Audio/Music.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/Mutex.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/NativeCodeAnalysis.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Network.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Debug/NieDotykajKolcow.Build.CppClean.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Release/NieDotykajKolcow.Build.CppClean.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Release/NieDotykajKolcow.tlog/NieDotykajKolcow.lastbuildstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Debug/NieDotykajKolcow.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Release/NieDotykajKolcow.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/NieDotykajKolcow.vcxproj.filters" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/NieDotykajKolcow.vcxproj.user" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/NieDotykajKolcow.vcxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/NonCopyable.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/OpenGL.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Network/Packet.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/PrimitiveType.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad/Program.bpr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad/Program.bpr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad/Program.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad/Program.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Program.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Project1.dev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/ifstreamof/kolejnezadanie/Project1.dev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/ifstreamof/pliki/Project1.dev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/static/Project1.dev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/Rect.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/Rect.inl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/RectangleShape.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/RenderStates.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/RenderTarget.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/RenderTexture.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/RenderWindow.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/Shader.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/Shape.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/Sleep.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Network/Socket.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Network/SocketHandle.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Network/SocketSelector.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Audio/Sound.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Audio/SoundBuffer.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Audio/SoundBufferRecorder.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Audio/SoundRecorder.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Audio/SoundSource.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Audio/SoundStream.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Source.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/korale/Source.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Spike.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Spike.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/Sprite.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/String.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Network/TcpListener.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Network/TcpSocket.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/Text.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/Texture.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/Thread.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/Thread.inl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/ThreadLocal.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/ThreadLocalPtr.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/ThreadLocalPtr.inl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/Time.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/Transform.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/Transformable.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Network/UdpSocket.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/Unit1.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/Unit1.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/Unit1.dfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/Unit1.dfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/Unit1.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/Unit1.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/Unit1.~cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/Unit1.~cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/Unit1.~dfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/Unit1.~dfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/Unit1.~h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/Unit1.~h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/Utf.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/Utf.inl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/Vector2.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/Vector2.inl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/Vector3.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/System/Vector3.inl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/Vertex.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/VertexArray.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Window/VideoMode.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Graphics/View.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Window.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Window/Window.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Window/WindowHandle.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/SFML/include/SFML/Window/WindowStyle.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ZadaniaCPP.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/wieloplikowy/afryka.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/alg_3ti.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/bscmake.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Release/NieDotykajKolcow.tlog/cl.command.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/cl.command.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/cl.command.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Release/cl.command.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/cl.command.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/korale/Debug/korale.tlog/cl.command.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/dziedziczenie/czlowiek.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/dziedziczenie/czlowiek.dev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/dziedziczenie/czlowiek.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/dziedziczenie/czlowiek.layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/ifstreamof/pliki/dane.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/dd/dd3.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Na cwaniakow/drivereg.dev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Na cwaniakow/drivereg_private.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Na cwaniakow/drivereg_private.rc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/drugi_wymiar.cpp.nativecodeanalysis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/drugi_wymiar.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/drugi_wymiar.lastbuildstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/drugi_wymiar.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/drugi_wymiar.vcxproj.filters" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/drugi_wymiar.vcxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/wieloplikowy/europa.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/fibonacz.cpp.nativecodeanalysis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/fibonacz.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/FIRMA/firma.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/FIRMA/firma.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/ifstreamof/trojkat/gen.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/ifstreamof/trojkat/generator.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/header.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/headers.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad_n/kalkulator.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad_n/kalkulator.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad_n/kalkulator.dfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad_n/kalkulator.dfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad_n/kalkulator.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad_n/kalkulator.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad_n/kalkulator.~dfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad_n/kalkulator.~dfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad_n/kalkulator.~h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad_n/kalkulator.~h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/klonowanie.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/korale/Debug/korale.tlog/korale.lastbuildstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/korale/Debug/korale.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/korale.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/korale/korale.vcxproj.filters" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/korale/korale.vcxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 4/kwd.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 4/kwd.dfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 4/kwd.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 4/kwd.~cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 4/kwd.~dfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 4/kwd.~h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 4/kwdp.bpr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 4/kwdp.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 4/kwdp.~bpr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 4/kwdp.~cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/link-cvtres.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/link-cvtres.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Release/link-cvtres.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/link-cvtres.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/link-cvtres.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/link-cvtres.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Release/link-cvtres.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/link-cvtres.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/link-mt.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/link-mt.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/link-rc.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/link-rc.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Release/link-rc.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/link-rc.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/link-rc.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/link-rc.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Release/link-rc.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/link-rc.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/link.6864-cvtres.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/link.6864-cvtres.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/link.6864-rc.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/link.6864-rc.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/link.6864.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/link.6864.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Release/NieDotykajKolcow.tlog/link.command.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/link.command.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/link.command.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Release/link.command.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/link.command.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/korale/Debug/korale.tlog/link.command.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Release/NieDotykajKolcow.tlog/link.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/link.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/link.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Release/link.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/link.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/korale/Debug/korale.tlog/link.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Release/NieDotykajKolcow.tlog/link.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/3ti/3ti/Debug/link.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/link.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Release/link.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/Debug/link.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/korale/korale/Debug/korale.tlog/link.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/main.cpp.nativecodeanalysis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Na cwaniakow/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/Funkcje3/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/fibonaczi/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/ifstreamof/kolejnezadanie/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/ifstreamof/pliki/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/FIRMA/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/dziedziczenie/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ois/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/samochod/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/static/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/Funkcje3/nagl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/wieloplikowy/nagl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ios3/osoba.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/konstruktor/osoba.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ois/osoba.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ios3/osoba.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/konstruktor/osoba.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ois/osoba.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/dd/pazdurk.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/static/pionki.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/ifstreamof/trojkat/pptk - Kopia.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/ifstreamof/trojkat/pptk.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/prace.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ios3/progr.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/konstruktor/progr.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/wieloplikowy/program.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad/programik.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad/programik.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad/programik.dfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad/programik.dfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad/programik.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad/programik.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad/programik.~dfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad/programik.~dfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 1/zad/programik.~h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 2/zad/programik.~h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/przek_parametrow_do_f.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Release/NieDotykajKolcow.tlog/rc.command.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Release/NieDotykajKolcow.tlog/rc.read.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/Release/NieDotykajKolcow.tlog/rc.write.1.tlog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gra na zaliczenie/NieDotykajKolcow/res.rc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 3/rkw.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 3/rkw.dfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 3/rkw.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 3/rkw.~dfm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 3/rkw.~h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 3/rkwadrob1.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 3/rkwadrob1.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 3/rkwx.bpr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 3/rkwx.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 3/rwkd.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lekcja 3/rwkd.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ois/samochod.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/ois/samochod.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/samochod/samochod.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/silnia.cpp.nativecodeanalysis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/silnia.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/Funkcje3/silnia.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/dd/sprawdzian.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Na cwaniakow/str.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/tablice/tablice.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/temperatura/temperatura.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Na cwaniakow/test.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/klasy/dziedziczenie/uczen.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/drugi_wymiar/drugi_wymiar/uczniowie.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/vc.nativecodeanalysis.all.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/wsk/wsk.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/wsk/wsk_2.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/wsk/wsk_4.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/ifstreamof/pliki/wynik.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/ifstreamof/trojkat/wyniki.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/Debug/xy.cpp.nativecodeanalysis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/5plikow/5plikow/xy.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programy/Funkcje/dziwne/zadanie.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    </list>
+    <ignored path="ZadaniaCPP.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ZadaniaCPP" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.29916897" vertical-offset="0" max-vertical-offset="361">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="46" />
+    <option name="width" value="1346" />
+    <option name="height" value="702" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZadaniaCPP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZadaniaCPP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZadaniaCPP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZadaniaCPP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZadaniaCPP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gra na zaliczenie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="preferences.lookFeel" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45592308-11a7-4a8a-9db6-7bb95d211d70" name="Default" comment="" />
+      <created>1430399922427</created>
+      <option name="number" value="Default" />
+      <updated>1430399922427</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="46" width="1346" height="702" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2542373" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29916897" vertical-offset="0" max-vertical-offset="361">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

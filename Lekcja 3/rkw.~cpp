@@ -1,0 +1,29 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+#include <math.h>
+#include "rwkd.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TForm1 *Form1;
+
+//---------------------------------------------------------------------------
+__fastcall TForm1::TForm1(TComponent* Owner)
+        : TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------    ,
+USEFILE("rwkd.cpp");
+
+void __fastcall TForm1::Button1Click(TObject *Sender)
+{
+  TRownanieKwadratowe* prk=new TRownanieKwadratowe(1,1,-2);
+
+  ShowMessage("Rozwi¹zania: x1="+FloatToStr(prk->X1())+", x2="+FloatToStr(prk->X2()));
+
+ delete prk;        
+}
+//---------------------------------------------------------------------------
+
