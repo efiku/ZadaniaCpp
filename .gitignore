@@ -3,4 +3,5 @@
 *.lo
 *.o
 *.obj
-Gra na zaliczenie/SFML
+Gra na zaliczenie/SFML/
+.idea/
